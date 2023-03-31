@@ -6,7 +6,7 @@ class Warden < Formula
   version "0.13.1"
   url "https://github.com/wardenenv/warden/archive/0.13.1.tar.gz"
   sha256 "2ef693c5a0cba34463b07c6577d1040a0d042137c32ec21bf07fa9a84b34c338"
-  head "https://github.com/wardenenv/warden.git", :branch => "develop"
+  head "https://github.com/wardenenv/warden.git", :branch => "main"
 
   depends_on "gettext"
   depends_on "pv" => :recommended
