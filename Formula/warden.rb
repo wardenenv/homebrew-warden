@@ -5,7 +5,7 @@ class Warden < Formula
   license "MIT"
   version "0.16.1"
   url "https://github.com/wardenenv/warden/archive/0.16.1.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "fc04b6f4a490ee1a8b60efc179cc96f367aeb2986f12ace1d066f9910547bb3f"
   head "https://github.com/wardenenv/warden.git", :branch => "main"
 
   depends_on "gettext"
